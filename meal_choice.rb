@@ -11,7 +11,7 @@ def dinner(meal_choicess = "salmon")
 end
 
 
-puts breakfest("cereal")
+puts breakfest("pancakes")
 
 puts lunch("mac and cheese")
 

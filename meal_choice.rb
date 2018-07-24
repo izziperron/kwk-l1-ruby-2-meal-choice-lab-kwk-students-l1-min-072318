@@ -10,11 +10,11 @@ def dinner(meal_choice = "salmon")
   "You should eat #{meal_choice} for dinner tonight!"
 end
 
-puts breakfest
+
 puts breakfest("cereal")
 
-puts lunch
+
 puts lunch("mac and cheese")
 
-puts dinner
+
 puts dinner("tacos")

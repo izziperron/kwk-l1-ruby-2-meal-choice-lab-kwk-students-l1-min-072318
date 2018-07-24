@@ -13,8 +13,10 @@ end
 
 puts breakfest("cereal")
 
-
 puts lunch("mac and cheese")
 
-
 puts dinner("tacos")
+
+def snacks(food="cheetos")
+  "Any time, is the right time for #{food}!"
+end

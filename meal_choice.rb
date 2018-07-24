@@ -11,7 +11,7 @@ def dinner(meal_choicess = "salmon")
 end
 
 
-puts breakfest("pancakes")
+puts breakfest("pancakes").downcase
 
 puts lunch("mac and cheese")
 

@@ -2,12 +2,12 @@ def breakfest(meal_choice = "frosted flakes")
   "Morning is the best time for #{meal_choice}!"
 end
 
-def lunch(meal_choice = "grilled cheese")
-  "The best meal for lunch is definitly #{meal_choice}!"
+def lunch(meal_choices = "grilled cheese")
+  "The best meal for lunch is definitly #{meal_choices}!"
 end
 
-def dinner(meal_choice = "salmon")
-  "You should eat #{meal_choice} for dinner tonight!"
+def dinner(meal_choicess = "salmon")
+  "You should eat #{meal_choicess} for dinner tonight!"
 end
 
 

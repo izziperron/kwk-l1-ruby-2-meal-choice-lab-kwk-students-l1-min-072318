@@ -1,4 +1,4 @@
-def breakfest(meal_choice = "frosted flakes")
+def breakfast(meal_choice = "frosted flakes")
   "Morning is the best time for #{meal_choice}!"
 end
 
@@ -11,7 +11,7 @@ def dinner(meal_choicess = "salmon")
 end
 
 
-puts breakfest("pancakes").downcase
+puts breakfast("pancakes").downcase
 
 puts lunch("mac and cheese")
 
